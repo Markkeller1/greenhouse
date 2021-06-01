@@ -213,10 +213,7 @@ int main() {
          // ImGui::Text("The water nutrition level : %.2f ",Plant.ReturnWater_nut());
          // ImGui::Text("The power level : %.2f ",Plant.ReturnPower());
         
-        if (ImGui::Button("Wipe out tomato town"))
-        {
-            tomatotown = true;
-        }
+        
         
 
         
@@ -229,10 +226,6 @@ int main() {
         
 
         window.clear(sf::Color(0,0,0));
-        if (tomatotown == true)
-        {
-            window.draw(sprite);
-        }
         
         
         // window.draw(shape);
