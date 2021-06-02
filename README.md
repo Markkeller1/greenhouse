@@ -9,4 +9,8 @@ catkin config
 
 step 3.
 
-add 
+add the headers folder to the libs folder
+
+step 4. 
+
+add mini-project.cpp to src 
