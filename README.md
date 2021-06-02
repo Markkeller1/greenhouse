@@ -1,6 +1,7 @@
 # greenhouse
 
-step 1. 
+step 1.
+
 git clone https://github.com/kdhansen/greenhouse-sim.git --recurse-submodules
 
 step 2.
